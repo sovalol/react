@@ -34,6 +34,7 @@ function My() {
   return (
     <div>
       <p>loremru10</p>
+      <p> lolo</p>
     </div>
   );
 }
